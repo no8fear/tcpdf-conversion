@@ -1,11 +1,16 @@
 Symfony Standard Edition
 ========================
 
-*Start to Transfer tcpdf across:
+Start to Transfer tcpdf across:
+===============================
 	Controller
+	==========
 	Models
+	======
 	Everything else
+	===============
 	Views
+	=====
 
 [1]:  http://symfony.com/doc/2.6/book/installation.html
 [6]:  http://symfony.com/doc/2.6/bundles/SensioFrameworkExtraBundle/index.html
