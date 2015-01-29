@@ -5,16 +5,9 @@ Start to Transfer tcpdf across:
 ===============================
 
 	Controller
-	==========
-	
-	Models
-	======
-	
-	Everything else
-	===============
-	
+	Models	
+	Everything else	
 	Views
-	=====
 
 [1]:  http://symfony.com/doc/2.6/book/installation.html
 [6]:  http://symfony.com/doc/2.6/bundles/SensioFrameworkExtraBundle/index.html
